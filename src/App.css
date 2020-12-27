@@ -2,3 +2,8 @@ body {
   font-family: 'Langar', cursive;
   padding: 20px 60px;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
